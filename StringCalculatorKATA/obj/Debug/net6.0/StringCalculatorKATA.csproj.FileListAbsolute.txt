@@ -1,0 +1,15 @@
+C:\Users\lefam\source\repos\StringCalculatorKATA\bin\Debug\net6.0\StringCalculatorKATA.exe
+C:\Users\lefam\source\repos\StringCalculatorKATA\bin\Debug\net6.0\StringCalculatorKATA.deps.json
+C:\Users\lefam\source\repos\StringCalculatorKATA\bin\Debug\net6.0\StringCalculatorKATA.runtimeconfig.json
+C:\Users\lefam\source\repos\StringCalculatorKATA\bin\Debug\net6.0\StringCalculatorKATA.dll
+C:\Users\lefam\source\repos\StringCalculatorKATA\bin\Debug\net6.0\StringCalculatorKATA.pdb
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.csproj.AssemblyReference.cache
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.AssemblyInfoInputs.cache
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.AssemblyInfo.cs
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.csproj.CoreCompileInputs.cache
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.dll
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\refint\StringCalculatorKATA.dll
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.pdb
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\StringCalculatorKATA.genruntimeconfig.cache
+C:\Users\lefam\source\repos\StringCalculatorKATA\obj\Debug\net6.0\ref\StringCalculatorKATA.dll
