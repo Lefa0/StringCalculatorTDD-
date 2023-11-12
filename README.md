@@ -1,4 +1,4 @@
-# StringCalculatorTDD-
+# StringCalculatorKATA
 StringCalculator Kata - Test Driven Development (TDD)
 Create a simple calculator that takes a String and returns a integer
 
