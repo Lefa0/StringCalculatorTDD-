@@ -1,0 +1,15 @@
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\bin\Debug\net6.0\StringCalculatorTDD.exe
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\bin\Debug\net6.0\StringCalculatorTDD.deps.json
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\bin\Debug\net6.0\StringCalculatorTDD.runtimeconfig.json
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\bin\Debug\net6.0\StringCalculatorTDD.dll
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\bin\Debug\net6.0\StringCalculatorTDD.pdb
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.csproj.AssemblyReference.cache
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.AssemblyInfoInputs.cache
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.AssemblyInfo.cs
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.csproj.CoreCompileInputs.cache
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.dll
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\refint\StringCalculatorTDD.dll
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.pdb
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\StringCalculatorTDD.genruntimeconfig.cache
+C:\Users\m.moletsane\source\repos\StringCalculatorTDD\obj\Debug\net6.0\ref\StringCalculatorTDD.dll
